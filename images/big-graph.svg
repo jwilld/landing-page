@@ -1,35 +1,17 @@
-<svg width="1269" height="722" viewBox="0 0 1269 722" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_dd)">
-<path d="M286 85L85 147.5L25.5 44.5L267 278M286 85L267 278M286 85L693.5 22.5M267 278L487 147.5L693.5 335M267 278L693.5 22.5M693.5 335L778 587.5L693.5 22.5M693.5 335L1049.5 297M693.5 22.5L843 126M843 126L1218 147.5L1049.5 297M843 126L1003.5 691M1049.5 297L1133.5 506M1133.5 506L1003.5 691M1133.5 506L1250.5 677.5L1003.5 691" stroke="#9DDCDC"/>
-<circle cx="265" cy="277" r="20" fill="#9DDCDC"/>
-<circle cx="487" cy="145" r="20" fill="#9DDCDC"/>
-<circle cx="691" cy="336" r="20" fill="#9DDCDC"/>
-<circle cx="24" cy="42" r="20" fill="#9DDCDC"/>
-<circle cx="1245" cy="676" r="20" fill="#9DDCDC"/>
-<circle cx="1047" cy="296" r="20" fill="#9DDCDC"/>
-<circle cx="1131" cy="502" r="20" fill="#9DDCDC"/>
-<circle cx="1223" cy="145" r="20" fill="#9DDCDC"/>
-<circle cx="780" cy="588" r="20" fill="#9DDCDC"/>
-<circle cx="995" cy="694" r="20" fill="#9DDCDC"/>
-<circle cx="286" cy="82" r="20" fill="#9DDCDC"/>
-<circle cx="845" cy="125" r="20" fill="#9DDCDC"/>
-<circle cx="691" cy="22" r="20" fill="#9DDCDC"/>
-<circle cx="83" cy="145" r="20" fill="#9DDCDC"/>
-</g>
-<defs>
-<filter id="filter0_dd" x="0" y="0" width="1269" height="722" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-<feOffset dy="2"/>
-<feGaussianBlur stdDeviation="2"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
-</filter>
-</defs>
+<svg width="1261" height="712" viewBox="0 0 1261 712" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M282 83L81 145.5L21.5 42.5L263 276M282 83L263 276M282 83L689.5 20.5M263 276L483 145.5L689.5 333M263 276L689.5 20.5M689.5 333L774 585.5L689.5 20.5M689.5 333L1045.5 295M689.5 20.5L839 124M839 124L1214 145.5L1045.5 295M839 124L999.5 689M1045.5 295L1129.5 504M1129.5 504L999.5 689M1129.5 504L1246.5 675.5L999.5 689" stroke="#9DDCDC"/>
+<circle cx="261" cy="275" r="20" fill="#9DDCDC"/>
+<circle cx="483" cy="143" r="20" fill="#9DDCDC"/>
+<circle cx="687" cy="334" r="20" fill="#9DDCDC"/>
+<circle cx="20" cy="40" r="20" fill="#9DDCDC"/>
+<circle cx="1241" cy="674" r="20" fill="#9DDCDC"/>
+<circle cx="1043" cy="294" r="20" fill="#9DDCDC"/>
+<circle cx="1127" cy="500" r="20" fill="#9DDCDC"/>
+<circle cx="1219" cy="143" r="20" fill="#9DDCDC"/>
+<circle cx="776" cy="586" r="20" fill="#9DDCDC"/>
+<circle cx="991" cy="692" r="20" fill="#9DDCDC"/>
+<circle cx="282" cy="80" r="20" fill="#9DDCDC"/>
+<circle cx="841" cy="123" r="20" fill="#9DDCDC"/>
+<circle cx="687" cy="20" r="20" fill="#9DDCDC"/>
+<circle cx="79" cy="143" r="20" fill="#9DDCDC"/>
 </svg>
