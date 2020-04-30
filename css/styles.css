@@ -1,5 +1,6 @@
 @import url('./header.css');
 @import url('./landing.css');
+@import url('./algorithmsection.css');
 html {
     font-family: 'Roboto', sans-serif;
     color: #414647;

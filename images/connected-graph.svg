@@ -1,0 +1,17 @@
+<svg width="584" height="568" viewBox="0 0 584 568" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line y1="-1" x2="192.966" y2="-1" transform="matrix(-0.816063 0.577963 -0.561162 -0.827706 276.174 64.262)" stroke="#9DDCDC" stroke-width="2"/>
+<line y1="-1" x2="187.914" y2="-1" transform="matrix(-0.822142 -0.569283 0.568797 -0.822478 273.012 282.769)" stroke="#9DDCDC" stroke-width="2"/>
+<line y1="-1" x2="187.914" y2="-1" transform="matrix(-0.822142 -0.569283 0.568797 -0.822478 273.012 282.769)" stroke="#9DDCDC" stroke-width="2"/>
+<path d="M340.192 462.727L118.674 175.953" stroke="#9DDCDC" stroke-width="2"/>
+<line y1="-1" x2="192.895" y2="-1" transform="matrix(0.826025 -0.563634 0.545973 0.837803 330.764 465.509)" stroke="#9DDCDC" stroke-width="2"/>
+<line y1="-1" x2="190.253" y2="-1" transform="matrix(-0.307638 -0.951503 0.942106 -0.335315 490.051 354.678)" stroke="#9DDCDC" stroke-width="2"/>
+<line y1="-1" x2="193.488" y2="-1" transform="matrix(-0.323159 -0.946345 0.936595 -0.350413 340.776 465.672)" stroke="#9DDCDC" stroke-width="2"/>
+<line y1="-1" x2="192.002" y2="-1" transform="matrix(0.793108 -0.609081 0.594225 0.804299 278.172 288.053)" stroke="#9DDCDC" stroke-width="2"/>
+<line y1="-1" x2="187.915" y2="-1" transform="matrix(-0.82166 -0.569977 0.56945 -0.822026 430.549 171.365)" stroke="#9DDCDC" stroke-width="2"/>
+<ellipse cx="276.174" cy="64.262" rx="18.6008" ry="19.1745" transform="rotate(34.1255 276.174 64.262)" fill="#FFEBB7"/>
+<ellipse cx="118.724" cy="176" rx="18.6008" ry="19.1745" transform="rotate(34.1255 118.724 176)" fill="#FFEBB7"/>
+<ellipse cx="278.453" cy="282.773" rx="18.6008" ry="19.1745" transform="rotate(34.1255 278.453 282.773)" fill="#FFEBB7"/>
+<ellipse cx="490.255" cy="354.885" rx="18.6008" ry="19.1745" transform="rotate(34.1255 490.255 354.885)" fill="#FFEBB7"/>
+<ellipse cx="341.058" cy="460.392" rx="18.6008" ry="19.1745" transform="rotate(34.1255 341.058 460.392)" fill="#FFEBB7"/>
+<ellipse cx="430.649" cy="171.737" rx="18.6008" ry="19.1745" transform="rotate(34.1255 430.649 171.737)" fill="#FFEBB7"/>
+</svg>
