@@ -39,16 +39,18 @@ ul{
     justify-content:center;
     align-items: center;
     background-color: rgba(255, 255, 255, 0.001);
-    backdrop-filter: brightness(10%);
-  }
-  .mobile-nav-bar{
-      text-align: center;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      height: 300px;
-      font-weight: 600;
-      letter-spacing: .5px;
+    backdrop-filter: brightness(70%) blur(3px);
+}
+.mobile-nav-bar{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 200px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: .2px;
   }
   .rotate-animation{
       animation: 1s rotate;
