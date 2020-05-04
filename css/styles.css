@@ -4,44 +4,53 @@
 @import url('./summary.css');
 @import url('./footer.css');
 html {
-    font-family: 'Roboto', sans-serif;
-    color: #414647;
-    scroll-behavior: smooth;
-    background-color: #171B1D;
+  font-family: 'Roboto', sans-serif;
+  color: #414647;
+  scroll-behavior: smooth;
+  background-color: #171B1D;
 }
-body{
-    margin: 0;
-    height: 200vh;
+
+body {
+  margin: 0;
+  height: 200vh;
 }
-main{
-    color: rgb(168, 177, 177); 
+
+main {
+  margin-top: 80px;
+  color: rgb(168, 177, 177);
 }
+
 h1, h2, h3, h4, h5, h6 {
-    margin: 0;
-    padding: 0;
+  letter-spacing: .6px;
+  margin: 0;
+  padding: 0;
 }
-a{
-    text-decoration: none;
-    color: inherit;
-    transition: .5s ease-in-out;
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: .5s ease-in-out;
 }
-a:hover{
-    color: lightgrey;
+
+a:hover {
+  color: lightgrey;
+}
+.hidden{
+  display: none;
 }
 
 @keyframes slidein {
-    from{
-      opacity: 0;
-      margin-top: 10%;
-      
-    }
-    to{
-      opacity:1;
-      margin-top: 0px;
-    }
+  from {
+    opacity: 0;
+    margin-top: 10%;
   }
-  
-  .fade-in-element{
-    animation:  ease-in 1.5s slidein;
+  to {
+    opacity: 1;
+    margin-top: 0px;
   }
+}
 
+
+.fade-in-element {
+  animation: ease-in 1.5s slidein;
+}

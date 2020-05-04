@@ -13,12 +13,23 @@
 </head>
 
 <body>
-    <header class='site-header'>
-        <h2 class='site-title'>Grph Thry</h2>
-        <ul class='nav-bar'>
-            <i id='mobile-nav' class="fas fa-ellipsis-h"></i>
-        </ul>
-    </header>
+    <div class='sticky-wrapper'>
+        <header class='site-header'>
+            <h2 class='site-title'>Grph Thry</h2>
+            <ul class='nav-bar'>
+                <span class='mobile-nav open-nav'>
+                    <i class="fas fa-ellipsis-h"></i>
+                </span>
+                <span class='mobile-nav close-nav hidden-toggle'>
+                    <i class="fas fa-times"></i>
+                </span>
+
+            </ul>
+        </header>
+    </div>
+    <div class='mobile-modal hidden'>
+        <ul class='mobile-nav-bar'></ul>
+    </div>
     <main class='site-content'>
         <section id='Home' class='site-intro-text hidden-animate'>
             <img class='big-graph-image' src='./images/big-graph.svg' />
@@ -30,8 +41,6 @@
         </section>
         <footer id='Discover' class='site-footer'>
             <div class='article-section'>
-            </div>
-            <div class='video-section'>
             </div>
             <span class='site-by'>Site by Jerry Davidson</span>
         </footer>
