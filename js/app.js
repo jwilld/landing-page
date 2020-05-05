@@ -89,18 +89,18 @@ const createGuide = () => {
         {
             header: "Kruskal's Algorithm",
             text:'This algorithm is considered one of the greedy algorithms in graph theory. The goal is to find the minimal spanning tree within a graph. To begin, you first find a subset of all the lowest vertices. Each time a low subset is found without creating a cycle, it becomes a part of the minimal spanning tree.',
-            image:'./images/first-graph.svg'
+            image:'https://svgshare.com/i/Kqb.svg'
             // text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
         },
         {
             header: "Step One",
             text: 'The lowest weight for the edges in this graph is two. They do not create a cycle so they are both added to the tree.',
-            image:'./images/second-graph.svg'
+            image:'https://svgshare.com/i/Kpa.svg'
         },
         {
             header: "Step Two",
             text: 'The second lowest edge in the graph is three. There is no order for choosing which edges, but they do have to connect the tree without creating cycles. The tree below is the minmal spanning tree.',
-            image:'./images/third-graph.svg'
+            image:'https://svgshare.com/i/Kqp.svg'
         },
     ]
     // iterate over steps 
@@ -136,7 +136,7 @@ const createSummary = () => {
     const summary = {
         header: 'Moving Forward',
         text: 'The use of Kruskal’s algorithm is a simple example of using graph theory to find the minimal spanning tree of a connected graph.There are other algorithms to be explored in graph theory, which provide their own benefits.  As shown the right(bottom for mobile devices), not all graphs are similar and they can be tricky. Graph theory is used in different areas, such as computer science and physics. There are sources at the end of this website for more information about other algorithms and the example one used to show Kruskal’s algorithm.',
-        image: './images/tree.svg'
+        image: 'https://svgshare.com/i/Kr8.svg'
     }
     const contentWrapper = document.createElement('div')
     contentWrapper.className = 'summary-wrapper'
